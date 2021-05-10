@@ -2,7 +2,7 @@
 
 O desafio A retorna uma base de dados de uma tabela em JSON
 
-Guia uso aplicação para a Base A do desafio consumidor Serasa
+Guia uso aplicação para a Base A do desafio consumidor 
 As tecnologias utilizadas na aplicação foram:
  - Django Framework
  - Django Rest Framework
