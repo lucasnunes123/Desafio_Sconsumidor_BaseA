@@ -1,5 +1,4 @@
 # Desafio_Sconsumidor_BaseA
-Desafio proposto serasa Consumidor base A
 
 O desafio A retorna uma base de dados de uma tabela em JSON
 
