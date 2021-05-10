@@ -1,4 +1,4 @@
-# Desafio_Sconsumidor_BaseA
+# Desafio_consumidor_BaseA
 
 O desafio A retorna uma base de dados de uma tabela em JSON
 
